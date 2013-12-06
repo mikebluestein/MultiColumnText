@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiColumnText", "MultiColumnText\MultiColumnText.csproj", "{A646A324-D5C8-4140-98C2-8BDEFFF34853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.Release|iPhone.Build.0 = Release|iPhone
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A646A324-D5C8-4140-98C2-8BDEFFF34853}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MultiColumnText\MultiColumnText.csproj
+	EndGlobalSection
+EndGlobal
